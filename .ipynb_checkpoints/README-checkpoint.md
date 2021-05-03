@@ -1,2 +1,2 @@
 # my-python-jupyterlab
-# jupyterlabで作成したファイル
+# jupyterlabで作成したファイルを追加していきます。
