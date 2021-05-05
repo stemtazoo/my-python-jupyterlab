@@ -1,6 +1,6 @@
 # my-python-jupyterlab
+　"my-python-jupyterlab" is currently under construction. Please come back again.<br>
 　作成中jupyterlabで作成したファイルを追加していきます。
-　"my-python-jupyterlab" is currently under construction. Please come back again.
 
 # DEMO
 　Currently in production
